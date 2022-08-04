@@ -2,7 +2,7 @@
 I'm a final year undergrad student at L.D.College of Engineering.
 - 📫 How to reach me **mistrykathan3@gmail.com**.
 - 🌱 I’m currently learning about deep-learning and neural network models.
-- 🔭 I had previously worked with React.js, Javascript, D3.js and node.js in different projects 
+- 🔭 I had previously worked with React.js, Javascript, D3.js and node.js in different projects.
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/kathan-mistry-92b9a4197/" height="30" width="40" /><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="janvi-thakkar-496514194" height="30" width="40" /></a>
