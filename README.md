@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi there 👋, 
+I'm a final year undergrad student at L.D.College of Engineering.
+- 📫 How to reach me **mistrykathan3@gmail.com**.
+- 🌱 I’m currently learning about deep-learning and neural network models.
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/kathan-mistry-92b9a4197/" height="30" width="40" /><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="janvi-thakkar-496514194" height="30" width="40" /></a>
+</p>
+
 
 <!--
 **kathan3/kathan3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
