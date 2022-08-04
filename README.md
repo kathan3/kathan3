@@ -6,6 +6,7 @@ I'm a final year undergrad student at L.D.College of Engineering.
 <p align="left">
 <a href="https://www.linkedin.com/in/kathan-mistry-92b9a4197/" height="30" width="40" /><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="janvi-thakkar-496514194" height="30" width="40" /></a>
 </p>
+- 😄 Pronouns: he/him
 
 
 <!--
