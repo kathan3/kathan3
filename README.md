@@ -1,7 +1,6 @@
 ### Hi there 👋, 
 I'm a final year undergrad student at L.D.College of Engineering.
 - 📫 How to reach me **mistrykathan3@gmail.com**.
-- 🌱 I’m currently learning about deep-learning and neural network models.
 - 🔭 I had previously worked with React.js, Javascript, D3.js and node.js in different projects.
 <h3 align="left">Connect with me:</h3>
 <p align="left">
