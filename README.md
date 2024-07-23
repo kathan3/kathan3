@@ -1,5 +1,5 @@
 ### Hi there 👋, 
-I'm a final year undergrad student at L.D.College of Engineering.
+I'm a graduate student at Indian Institute of Science, Bangalore. I had done my B.E. from L.D.College of Engineering.
 - 📫 How to reach me **mistrykathan3@gmail.com**.
 - 🔭 I had previously worked with React.js, Javascript, D3.js and node.js in different projects.
 <h3 align="left">Connect with me:</h3>
